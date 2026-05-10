@@ -2,9 +2,9 @@
 
 Your social inbox, scheduler, and CRM — always one shortcut away.
 
-[![Latest release](https://img.shields.io/github/v/release/Medal-Social/desktop?label=latest&color=000)](https://github.com/Medal-Social/desktop/releases/latest)
-[![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon-black?logo=apple)](https://github.com/Medal-Social/desktop/releases/latest)
-[![macOS](https://img.shields.io/badge/macOS-Intel-black?logo=apple)](https://github.com/Medal-Social/desktop/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/Medal-Social/Desktop?label=latest&color=000)](https://github.com/Medal-Social/Desktop/releases/latest)
+[![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon-black?logo=apple)](https://github.com/Medal-Social/Desktop/releases/latest)
+[![macOS](https://img.shields.io/badge/macOS-Intel-black?logo=apple)](https://github.com/Medal-Social/Desktop/releases/latest)
 [![License](https://img.shields.io/badge/license-Proprietary-blue)](./LICENSE)
 
 > Always points to the latest signed release.
@@ -21,7 +21,7 @@ Your social inbox, scheduler, and CRM — always one shortcut away.
 
 ## Download
 
-Always grab the latest from [Releases](https://github.com/Medal-Social/desktop/releases/latest).
+Always grab the latest from [Releases](https://github.com/Medal-Social/Desktop/releases/latest).
 
 | Platform | File | What it is |
 |---|---|---|
@@ -72,7 +72,7 @@ See the full [Medal Social privacy notice](https://medalsocial.com/privacy).
 
 ## Issues and feedback
 
-File issues here. The source code is private; PRs to the public repo are not accepted, but bug reports and feature requests are welcomed via [Issues](https://github.com/Medal-Social/desktop/issues).
+File issues here. The source code is private; PRs to the public repo are not accepted, but bug reports and feature requests are welcomed via [Issues](https://github.com/Medal-Social/Desktop/issues).
 
 ## License
 
